@@ -1,0 +1,18 @@
+body{
+  font-size: 16px;
+  color:#fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+#header-nav{
+  background-color: #f6b319;
+  border-radius: 0;
+  border:0;
+  height: 200px;
+}
+#logo-img{
+  background: url('../image/bliss.png') no-repeat;
+  width:190px;
+  height:190px;
+  margin:10px 15px 10px 0;
+}
